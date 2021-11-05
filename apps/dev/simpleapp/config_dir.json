@@ -1,1 +1,0 @@
-{"appName":"dev","userGivenName":"dev","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"kube-manifests/kustomize/ovelays/dev","srcRepoURL":"https://github.com/jhoelzel/simpleapp.git","srcTargetRevision":"","labels":null,"exclude":"","include":""}
