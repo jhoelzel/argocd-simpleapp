@@ -1,0 +1,1 @@
+{"appName":"prod","userGivenName":"prod","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/prod/overlays/simpleapp","srcRepoURL":"https://github.com/jhoelzel/argocd-simpleapp.git","srcTargetRevision":"","labels":null}
